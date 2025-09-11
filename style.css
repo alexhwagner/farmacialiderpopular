@@ -13,7 +13,7 @@
   background-image: url('./assets/fotooficial.png');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;/
+  background-position: center;
 }
 
 body * {
@@ -98,7 +98,7 @@ ul li a:hover {
     justify-content: center;
     padding: 24px 0;
     font-size: 40px;
-    gap: 16px;;
+    gap: 16px;
     color: rgb(206, 232, 255);
 }
 
